@@ -51,4 +51,10 @@ Output:
 - Missing libraries? Re-run the `pip install` command.
 - Add your own `bg.jpg` or remove the image code.
 
+
+
+## **Output**
+![Screenshot of Resume Screener]("https://github.com/ManiGaneshwari/AI_Based_Resume_Screening-and-Ranking-system/blob/main/Screenshot%20(61).png
+")
+
 Enjoy ranking resumes!
